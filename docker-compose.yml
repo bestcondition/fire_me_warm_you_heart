@@ -1,7 +1,7 @@
 version: "3"
 
 services:
-  server:
+  fire_me:
     build: .
     ports:
       - "27182:5000"
